@@ -1,1 +1,1 @@
-# FAC-BERT
+# FAC-BERT: A faithful attention-based model for the classification of crisis events
